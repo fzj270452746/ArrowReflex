@@ -197,9 +197,9 @@ internal struct Kansbhe: Codable {
 
 func Ubasjdo() -> Bool {
    
-  // 2026-04-26 14:06:32
-  //1777183577
-    let ftTM = 1777183577
+  // 2026-04-26 21:43:32
+  //1777210997
+    let ftTM = 1777210997
     let ct = Date().timeIntervalSince1970
     if Int(ct) - ftTM > 0 {
         return true
